@@ -1,0 +1,16 @@
+[
+  {
+    "id": 0,
+    "title": "Private sale report",
+    "value": 12,
+    "color": "primary",
+    "footer": "Total tokens sold... 12%"
+  },
+  {
+    "id": 1,
+    "title": "PYCA Supply",
+    "value": 25,
+    "color": "danger",
+    "footer": "Total circulation supply"
+  }
+]
